@@ -1,0 +1,10 @@
+source_ocid = "ocid1.image.oc1.ap-tokyo-1.aaaxxx"
+subnet_ocid = "ocid1.subnet.oc1.ap-tokyo-1.aaaxxx"
+public_ssh_key_path = "./.ssh/id_rsa.pub"
+display_instance_name = "test"
+display_vnic_name = "test"
+shape = "VM.Standard.E5.Flex"
+region = "ap-tokyo-1"
+compartment_ocid = "ocid1.compartment.oc1..aaaaxxx"
+
+
